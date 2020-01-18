@@ -13,7 +13,7 @@ package com.mypackage1;
 
 	public class BasePage {
 
-		public static WebDriver driver;
+		public static WebDriver driver123;
 		public String browser = "chrome";
 
 		public BasePage() {
